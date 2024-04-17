@@ -1,0 +1,23 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "description": "cool geam",
+  "main": "package.js",
+  "scripts": {
+    "test": "nope",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcrhbrhcdb/ai-.git"
+  },
+  "keywords": [
+    "start"
+  ],
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcrhbrhcdb/ai-/issues"
+  },
+  "homepage": "https://github.com/bcrhbrhcdb/ai-#readme"
+}
